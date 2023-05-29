@@ -17,7 +17,7 @@ Praktikum :
 13. Menghitung jumlah iterasi
 
 keterangan:
-1-7 Bubble Sort
+1-7 Bubble Sort,
 8-13 Selection Sort
 
 Latihan 1: Mengurutkan nilai secara ascending
@@ -27,5 +27,5 @@ Latihan 4: Mengurutkan angka secara ascending
 Latihan 5: Mengurutkan daftar pemain berdasarkan jumlah gol secara descending
 
 keterangan:
-1-3 Bubble Sort
+1-3 Bubble Sort,
 4-5 Selection Sort
